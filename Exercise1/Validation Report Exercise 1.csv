@@ -1,0 +1,4 @@
+Validation Rule,Violating Rows
+Price <= 0,0
+Host ID is null,0
+Minimum nights < 1,0
